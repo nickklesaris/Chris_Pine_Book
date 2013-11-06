@@ -1,3 +1,4 @@
+# There is an improved (less code) version of this program: leap2.rb
 puts 'This program will list all of the leap years between (and including) the two years you provide.'
 puts 'Starting year?'
 year1 = gets.chomp
